@@ -1,2 +1,4 @@
 ﻿helloooo
 good
+こんにちは
+さようなら
